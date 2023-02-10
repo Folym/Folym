@@ -1,3 +1,3 @@
 ### Heitor Folim, Studying Computer Science...
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Folym&show_icons=true&theme=midnight-purple)
+![Stats](https://github-readme-stats.vercel.app/api?username=Folym&show_icons=true&theme=github_dark)
